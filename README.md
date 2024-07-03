@@ -5,6 +5,7 @@
 -   Course credits: React Full Course ( React + TS section) [https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/25890158#questions]
 -   Status: Almost finished (02.07.2024)
 -   React Context API + TS too difficult
+-   Full course available @ [https://github.com/academind/react-complete-guide-course-resources]
 
 # Getting Started with Create React App
 
